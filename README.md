@@ -27,24 +27,25 @@ This project was about making a code review to the Microverse Trials Project. Th
             <li>images directory to store the images used in creating this project.</li>
             <li>stylesheet directory to store the style.css file for styling the website</li>
             <li>index.html to write the HTML code.</li>
-            <ul></li>
+            </ul></li>
 <li>Merged setup-project with the main branch
 <li>Created the initialization-project branch to build the project code.</li>
 <li>Opened the folder Using VSCode.<li>
 <li>Fixed Webhint and Stylelint linters errors.</li>
 <li>Added semantic tags to index.html</li>
 <li>Made my first review to the project</li>
+</ol>
 
 # Authors
 David Kasilia Mwanzia
 <ul>
 <li>Github <a href="https://github.com/David-Kasilia">Link To Github Profile</a></li>
 <li>Linkedin <a href="https://www.linkedin.com/in/david-kasilia-846241211/">Link To Linkedin Profile</a></li>
-<li>Twitter <a href="https://twitter.com/DavidKasilia">Link To Twitter Profile</a><li>
+<li>Twitter <a href="https://twitter.com/DavidKasilia">Link To Twitter Profile</a></li>
 </ul>
 
 # Contributors
-During the Microverse Trials this project was built with the help of Richard by peer programming.
+During the Microverse Trials this project was built with the help of <a href="https://github.com/ikennarichard">Richard</a> by peer programming.
 
 # Show your support
 Give a Like or a Star if you like this project.
